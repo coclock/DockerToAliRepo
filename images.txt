@@ -7,3 +7,4 @@ ubuntu/squid:latest
 semitechnologies/weaviate:1.19.0
 langgenius/dify-web:0.6.13
 langgenius/dify-api:0.6.13
+redis
